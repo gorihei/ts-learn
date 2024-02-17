@@ -15,5 +15,6 @@
   "env": { "browser": true, "node": true, "es6": true },
   "rules": {
     // 個別に設定するESLintルールを記述
-  }
+  },
+  "root": true
 }

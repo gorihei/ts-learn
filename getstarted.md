@@ -25,4 +25,3 @@
 5. ESLintとPrettirのインストール
    1. `"npm install --save-dev eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin eslint-config-prettier prettier"`
       1. `.eslintrc.json`と`.prettierrc.json`を作成して設定を記述。
-6.
